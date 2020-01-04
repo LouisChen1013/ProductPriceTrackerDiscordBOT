@@ -1,6 +1,8 @@
-Stock and Discount Discord Bot
+Discount Discord Bot
 
-Hong Lin Chen - A00804593
+Group Memebers:
+
+Louis Chen - A00804593
 Tamerlan Zamaev - A01025926
 Christian Malit - A00983372
 
